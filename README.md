@@ -23,3 +23,5 @@ It comprises three main components: data collection, training, and real-time tes
 ## Result
 
 ![1](https://github.com/Aggarwal-Gavesh-25/Facial-Recognition/assets/118240223/04e38608-2c34-48eb-bc3d-982e746604e9)
+
+![2](https://github.com/Aggarwal-Gavesh-25/Facial-Recognition/assets/118240223/433f97b9-65e1-46c6-870b-290dbbb5c83d)
