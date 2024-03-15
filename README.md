@@ -21,3 +21,5 @@ It comprises three main components: data collection, training, and real-time tes
 - Displays classification labels above the detected faces in real-time.
 
 ## Result
+
+![1](https://github.com/Aggarwal-Gavesh-25/Facial-Recognition/assets/118240223/04e38608-2c34-48eb-bc3d-982e746604e9)
