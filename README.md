@@ -1,5 +1,4 @@
 ## Real-Time Face Detection and Classification
-
 The Real-Time Face Detection and Classification project is implemented in MATLAB to detect and classify faces in real-time using a webcam. It combines the power of pre-trained neural networks with face detection algorithms to achieve accurate and efficient face recognition.
 
 It comprises three main components: data collection, training, and real-time testing, each contributing to the overall functionality of the system.
@@ -21,7 +20,10 @@ It comprises three main components: data collection, training, and real-time tes
 - Displays classification labels above the detected faces in real-time.
 
 ## Result
-
 ![1](https://github.com/Aggarwal-Gavesh-25/Facial-Recognition/assets/118240223/04e38608-2c34-48eb-bc3d-982e746604e9)
 
 ![2](https://github.com/Aggarwal-Gavesh-25/Facial-Recognition/assets/118240223/433f97b9-65e1-46c6-870b-290dbbb5c83d)
+
+![3](https://github.com/Aggarwal-Gavesh-25/Facial-Recognition/assets/118240223/fd50fecc-5bbc-425e-af1b-77be7b137fae)
+
+![4](https://github.com/Aggarwal-Gavesh-25/Facial-Recognition/assets/118240223/2036cdf2-95cc-42b5-8d5e-c1d1f380c889)
